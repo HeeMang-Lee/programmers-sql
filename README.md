@@ -9,7 +9,7 @@
 - [📂 programmers-sql](./)
     - [📄 README.md](./README.md)
     - [📂 sql](./sql/)
-        - [📄 25_find_adoption_time.sql](./sql/25_find_adoption_time.sql)
+        - [📄 26_find_adoption_time.sql](./sql/26_find_adoption_time.sql)
         - 
 
 ---
@@ -18,7 +18,7 @@
 
 | 번호 | 문제명                                          | 난이도 | SQL 코드                                     |
 |----|----------------------------------------------|--------|--------------------------------------------|
-| 1 | [입양 시각 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59412) | 🟢 LV.1 | [🔗 SQL 보기](sql/25_find_adoption_time.sql) |
+| 1 | [입양 시각 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59412) | 🟢 LV.1 | [🔗 SQL 보기](sql/26_find_adoption_time.sql) |
 | 2 | |
 | 3 | |
 
